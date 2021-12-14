@@ -17,9 +17,8 @@
         android:layout_height="match_parent"
         android:gravity="bottom"
         android:orientation="vertical">
-
         <Button
-            android:id="@+id/button"
+            android:id="@+id/startStopButton"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Start Hike" />
@@ -37,7 +36,7 @@
                 android:text="Current GPS Data:" />
 
             <EditText
-                android:id="@+id/editTextTextPersonName"
+                android:id="@+id/editTextGPSData"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:ems="10"
@@ -49,7 +48,7 @@
         </LinearLayout>
 
         <Button
-            android:id="@+id/button3"
+            android:id="@+id/updateTrailButton"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Update Trail" />
