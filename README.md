@@ -1,7 +1,7 @@
 # Kotlin Hiking Application
 
-Name: Zarek Sliwoski
-Email: zsliwoski@gmail.com
+- Name: Zarek Sliwoski
+- Email: zsliwoski@gmail.com
 
 ## How to run this application
 - Download android studio and required platform libraries
